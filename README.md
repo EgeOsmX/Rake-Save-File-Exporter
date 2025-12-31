@@ -1,5 +1,6 @@
 # Rake Save File Exporter
 
+- [Tutorial Video](#tutorial-video)
 - [What is Rake Save File Exporter?](#what-is-rake-save-file-exporter)
 - [What is Rake?](#what-is-rake)
 - [How does this tool work?](#how-does-this-tool-work)
@@ -8,9 +9,13 @@
 - [Usage](#usage)
 
 <div style="line-height: 0;">
-  <img src=".github-assets/image-001.png" width="100%" style="display: block; margin: 0;" />
-  <img src=".github-assets/image-005.png" width="100%" style="display: block; margin: 0;" />
+  <img src=".github-assets/image-001.png" width="50%" style="display: block; margin: 0;" />
+  <img src=".github-assets/image-005.png" width="50%" style="display: block; margin: 0;" />
 </div>
+
+## Tutorial Video
+
+<a href="https://youtu.be/fQLXo_JPiMU"><img src=".github-assets/thumbnail-tutorial.png" width="40%"></a>
 
 ## What is Rake Save File Exporter?
 
